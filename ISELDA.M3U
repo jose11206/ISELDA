@@ -1,0 +1,33 @@
+﻿#EXTM3U
+#*****************************CANALES DE EL SALVADOR
+#*****************************
+#EXTINF:-1 tvg-id="Canal 2.sv" tvg-name="Canal 2 (OP2)" tvg-logo="https://dnslivetv.online:443/images/2ahqQZqVYHfGG9NeADwxjOJQ-qSJLhAm282-h-sdCGpl9efcliFl9JAbi-P9tXSs4-_6dGlEJDs72dVb478uw-pRkVfkiY3DslBE34ALVlaGERJPzYdBFYAm4bE34fks.png" group-title="⚪ - EL SALVADOR",Canal 2 (OP2)
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1072167
+#EXTINF:-1, tvg-id="Canal 3Impresionante.sv" tvg-logo="https://i.imgur.com/mdfiWG9.png" group-title="General",Canal 3 Impresionante (480p)
+https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal4.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/512px-Canal_4_TCS.png" group-title="Undefined",Canal 4 HD (1080p)
+http://45.5.116.178:8000/play/a03p/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Canal6.sv" tvg-name="Canal 6 (OP2)" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUmA-s2Y9J-FScBjUYQULJD-5CTRZshADwORUN5LCvGiR9e8ANkj8Rg55isM--erBo.png" group-title="⚪ - EL SALVADOR",Canal 6 (OP2)
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1072170
+#EXTINF:-1 tvg-id="Canal10.sv" tvg-name="Canal 10 (OP2)" tvg-logo="https://dnslivetv.online:443/images/Bp-vRtZEje6kFpdMZzWxZ_LLd8du79MtONoXktlbV_CNs4MYwRQ9BlWUoWPRtVfs1QBSB2GGIJ_BVp_uBMaHdQgB4R4alrRiJN4-pevSpefNVWw-M9XsrBo0OSAyklaE.png" group-title="⚪ - EL SALVADOR",Canal 10 (OP2)
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1072171
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 11 TUTV" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWZ_mFdTEoOVZuTRfSFzEO7alaWL-ielfyAIE-viaxPFDVLeP36-ROSrcD85wlT280.png" group-title="⚪ - EL SALVADOR",CANAL 11 TUTV
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1077777
+#EXTINF:-1 tvg-id="" tvg-name="Canal 12 (RSM)" tvg-logo="https://dnslivetv.online:443/images/Hs3szvv18lKJurR2sZxhPad8-Nj4zGZ7Xt_Jeg-U3-EUtD68Ya-7Vk7cwRE9z1AWWnuxC07d6QsvWpz08hJjmHF4gvlj9ouVSd-BpBKLl8wJnWnBkoURRnIbGuvL1bDa.png" group-title="⚪ - EL SALVADOR",Canal 12 (RSM)
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1077776
+#EXTINF:-1 tvg-id="" tvg-name="Canal 19 (OP2)" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVyNdGSIrPSU-Q9fVLW48Rikso_NwMVnPU-WCvcK6ZYiR2BQal39Q0LBrqDKviU2s73yaV8uZCF346ibnnTsHrP.png" group-title="⚪ - EL SALVADOR",Canal 19 (OP2)
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1072173
+#EXTINF:-1 tvg-id="" tvg-name="Canal 21 (OP2)" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjXIwhnVkcorz19kOkxyuIEeU-zBlZ6XbWVZwy4JHpU-ORi9Dskkwp4Dsw0kjpG5ni.png" group-title="⚪ - EL SALVADOR",Canal 21 (OP2)
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1072168
+#EXTINF:-1, tvg-logo="https://tvocanal23.com/wp-content/uploads/2020/10/logo.png" group-title="EL SALVADOR", TVO CANAL 23
+http://168.227.22.18:1935/tvo/02085f/playlist.m3u8
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="General",TCS+ (480p) [Not 24/7]
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
+#EXTINF:-1, tvg-id="RTVCanal57.sv" tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="General",RTV Canal 57 (720p)
+https://stream.giostreaming.net:19360/canal57/canal57.m3u8
+#EXTINF:-1, tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="General",WOW TV (576p) [Not 24/7]
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="OrbitaFM.sv" tvg-logo="https://i.imgur.com/KTgTjQi.png" group-title="Undefined",Órbita FM (720p)
+https://fl1003.bozztv.com/ssh101/OrbitaFM953/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Taber TV (OP2)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Tabertv.png/revision/latest?cb=20210621011556&path-prefix=es" group-title="⚪ - EL SALVADOR",Taber TV (OP2)
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1072174
